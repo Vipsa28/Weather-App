@@ -41,12 +41,15 @@ Try the app live at: [https://Vipsa28.github.io/Weather-App]()
    git clone https://github.com/Vipsa28/Weather-App.git
    cd Weather-App
 2. Install dependencies:
+   ```bash
    npm install
 
-3.Create a .env file in the root directory and add your API key:
+3. Create a .env file in the root directory and add your API key:
+   ```bash
     VITE_APP_ID=your_openweathermap_api_key
 
 4.Start the development server:
+   ```bash
     npm run dev
 
 5.Open your browser at http://localhost:5173.
