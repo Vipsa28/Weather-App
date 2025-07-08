@@ -48,10 +48,10 @@ Try the app live at: [https://Vipsa28.github.io/Weather-App]()
    ```bash
     VITE_APP_ID=your_openweathermap_api_key
 
-4.Start the development server:
+4. Start the development server:
    ```bash
     npm run dev
 
-5.Open your browser at http://localhost:5173.
+5. Open your browser at http://localhost:5173.
 
 6. Use the app by typing a city name into the search box and pressing Enter or clicking the search icon to view current weather details.
