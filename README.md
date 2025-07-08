@@ -6,7 +6,7 @@ A simple and responsive Weather Application built with **React.js** and **Vite**
 
 ## Live Demo
 
-Try the app live at: [https://Vipsa28.github.io/Weather-App](https://Vipsa28.github.io/Weather-App)
+Try the app live at: (https://weathe-applive.netlify.app/)
 
 ---
 
