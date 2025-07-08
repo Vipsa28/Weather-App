@@ -24,7 +24,7 @@ Try the app live at: [https://Vipsa28.github.io/Weather-App]()
 - React.js (with functional components and hooks)
 - Vite (build tool)
 - CSS for styling
-- OpenWeatherMap API (or any other weather API you are using)
+- OpenWeatherMap API 
 
 ---
 
